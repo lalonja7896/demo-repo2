@@ -1,0 +1,7 @@
+#Commits 
+we will have a master Branch and then we can have branches that will modify something in the main branch 
+we can also modify something specific in a branch, but each branch is only keeping changes in the original branch 
+So:
+
+We have a Master Branch and a Feature Branch were we can make changes and modifications and at the end merge everything into a final one.
+
